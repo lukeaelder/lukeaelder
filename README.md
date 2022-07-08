@@ -1,5 +1,5 @@
 <img src="images/waves.svg"/>
-<p align="center" style="transform:translateY(-100px)">
+<p align="center">
     <img src="images/name.svg"/><br>
     <a href="https://www.lukeeld.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
     <a href="mailto:lukeaeld@gmail.com?subject=Hi%20Luke%20Elder"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
