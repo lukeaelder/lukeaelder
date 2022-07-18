@@ -1,4 +1,3 @@
-<img src="images/waves.svg"/>
 <p align="center">
     <img src="images/name-dark.svg#gh-dark-mode-only"/>
     <img src="images/name-light.svg#gh-light-mode-only"/>
