@@ -8,8 +8,10 @@
 </p>
 <br>
 
-**I am a full stack software engineer.** 
+<p align="center">
+<b>I am a full stack software engineer.</b>
 I have a passion for learning and problem-solving to create cool stuff with code.
+</p>
 
 <br>
 
