@@ -8,8 +8,6 @@
 </p>
 <br>
 
-### Hi I'm Luke Elder 👋
-
 **I am a full stack software engineer.** 
 I have a passion for learning and problem-solving to create cool stuff with code.
 
